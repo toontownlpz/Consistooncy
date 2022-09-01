@@ -1,2 +1,2 @@
-# TTRTextureFixes
- A content pack aiming to fix many inconsistencies and eyesores throughout Toontown Rewritten. :)
+# Consistooncy
+A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
