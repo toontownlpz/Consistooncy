@@ -1,4 +1,4 @@
 # Consistooncy
-A content pack for Toontown Rewritten, aiming to fix many inconsistencies and eyesores throughout the game.
-
 Under active development.
+
+Disclaimer: Consistooncy is not affiliated in any way with the Toontown Rewritten team or The Walt Disney Company and its subsidaries.
